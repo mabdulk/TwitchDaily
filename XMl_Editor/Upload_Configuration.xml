@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<upload application="Wordly Video Uploader" secret="/Users/musta/Downloads/client_secret_657244367617-o7su14hmo9f4hf7ol7rm3nk2v0de5ej8.apps.googleusercontent.com.json">
+    <video file="C:\Users\musta\Downloads\Bumper falls off mid drive - Just Chatting.mp4" privacy="Public" category="Entertainment">
+        <channel id="UCYzwavf5xoPjRsPLx6VMAaQ"/>
+        <title>Bumper falls off mid drive - Just Chatting</title>
+        <description>the content of this video is more exciting to watch than Dawood attempting to climb a tree.<br/> test test</description>
+        <thumbnail file="C:\Users\musta\Downloads\UploadToYoutube\Myth chugging pop.png"/>         
+        <tags>funny</tags>
+    </video>
+</upload>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<upload application="Wordly Video Uploader" secret="C:\Users\theVmAdmin\Documents\YoutubeAutomationPY\YMU_v1.0\YMU\client_secret_657244367617-o7su14hmo9f4hf7ol7rm3nk2v0de5ej8.apps.googleusercontent.com.json">
+    <video file="C:\Users\theVmAdmin\Downloads\UploadToYoutube\TopTen.mp4" privacy="Public" category="Entertainment">
+        <channel id="UCYzwavf5xoPjRsPLx6VMAaQ"/>
+        <title>TOP 10 MOST VIEWED TWITCH CLIPS OF THE DAY (2022-07-30)</title>
+        <description>TOP 10 MOST VIEWED TWITCH CLIPS OF THE DAY a list of twitch clips ranked by number of views.</description>     
+        <tags>twitch,gaming,valorant,streaming,top10,top 10,valo,entertainment,rank,viewcount,twitchClips,gta,game,gamers,freefire,games,amongus,gameplay,youtubeGamer,twitchGamer,livestream,gamingcommunity,youtubegamingchannel,playfortnite,videogames,pcgaming,twitchstreamer</tags>
+    </video>
+</upload>
+
+
